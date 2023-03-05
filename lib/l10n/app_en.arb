@@ -1,0 +1,7 @@
+{
+    "language_en" : "English",
+    "text_welcome_morning" : "Good Morning",
+    "text_welcome_afternoon" : "Good Afternoon",
+    "text_welcome_evening" : "Good Evening",
+    "text_welcome_night" : "Good Night"
+}

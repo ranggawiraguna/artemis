@@ -1,0 +1,11 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    file_names: false
+    constant_identifier_names: false
+    non_constant_identifier_names: false
+    use_build_context_synchronously: false
+    depend_on_referenced_packages: false
+    avoid_single_cascade_in_expression_statements: false
+    library_prefixes: false
